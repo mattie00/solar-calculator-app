@@ -1,0 +1,22 @@
+# Wirtualne środowisko
+.venv/
+venv/
+
+# Pliki PyInstaller
+/dist/
+/build/
+*.spec
+
+# Pliki tymczasowe Pythona
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ustawienia edytorów
+.idea/
+.vscode/
+
+# Logi i pliki tymczasowe
+*.log
+*.tmp

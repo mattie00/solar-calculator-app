@@ -1,0 +1,297 @@
+{
+  "modules": [
+    {
+      "name": "JaSolar 405W (1722x1134x30mm, 21.5kg, 108 ogniw)",
+      "product_warranty": "12 lat",
+      "performance_warranty": "25 lat",
+      "power": 405,
+      "price": 254.51
+    },
+    {
+      "name": "JaSolar 500W (2093x1134x30mm, 25,2kg, 132 ogniw)",
+      "product_warranty": "12 lat",
+      "performance_warranty": "25 lat",
+      "power": 500,
+      "price": 334.56
+    },
+    {
+      "name": "Longi 410W (1722x1134x30mm, 21.5kg, 108 ogniw)",
+      "product_warranty": "15 lat",
+      "performance_warranty": "25 lat",
+      "power": 410,
+      "price": 296.1
+    },
+    {
+      "name": "Longi 580W (2278x1134x35mm, 27.5kg, 144 ogniw)",
+      "product_warranty": "15 lat",
+      "performance_warranty": "25 lat",
+      "power": 580,
+      "price": 467.4
+    },
+    {
+      "name": "ML SYSTEM 400W (1722x1134x30mm, 20.4kg, 108 ogniw)",
+      "product_warranty": "12 lat",
+      "performance_warranty": "25 lat",
+      "power": 400,
+      "price": 375.15
+    },
+    {
+      "name": "ML SYSTEM 450W (2093x1134x30mm, 24.5kg, 144 ogniw)",
+      "product_warranty": "12 lat",
+      "performance_warranty": "25 lat",
+      "power": 450,
+      "price": 402.21
+    }
+  ],
+  "inverters": [
+    {
+      "name": "Falownik Hybrydowy DEYE SUN 5K",
+      "warranty": "10 lat",
+      "type": "Hybryda",
+      "phases": "3-fazowy",
+      "price": 9300
+    },
+    {
+      "name": "Falownik Hybrydowy DEYE SUN 6K",
+      "warranty": "10 lat",
+      "type": "Hybryda",
+      "phases": "3-fazowy",
+      "price": 9500
+    },
+    {
+      "name": "Falownik Hybrydowy DEYE SUN 8K",
+      "warranty": "10 lat",
+      "type": "Hybryda",
+      "phases": "3-fazowy",
+      "price": 9800
+    },
+    {
+      "name": "Falownik Hybrydowy DEYE SUN 10K",
+      "warranty": "10 lat",
+      "type": "Hybryda",
+      "phases": "3-fazowy",
+      "price": 10000
+    },
+    {
+      "name": "Falownik Hybrydowy DEYE SUN 12K",
+      "warranty": "10 lat",
+      "type": "Hybryda",
+      "phases": "3-fazowy",
+      "price": 10500
+    },
+    {
+      "name": "Falownik DEYE SUN 4K",
+      "warranty": "12 lat",
+      "type": "Zwykły",
+      "phases": "3-fazowy",
+      "price": 2200
+    },
+    {
+      "name": "Falownik DEYE SUN 5K",
+      "warranty": "12 lat",
+      "type": "Zwykły",
+      "phases": "3-fazowy",
+      "price": 2400
+    },
+    {
+      "name": "Falownik DEYE SUN 6K",
+      "warranty": "12 lat",
+      "type": "Zwykły",
+      "phases": "3-fazowy",
+      "price": 2500
+    },
+    {
+      "name": "Falownik DEYE SUN 8K",
+      "warranty": "12 lat",
+      "type": "Zwykły",
+      "phases": "3-fazowy",
+      "price": 2550
+    },
+    {
+      "name": "Falownik DEYE SUN 9K",
+      "warranty": "12 lat",
+      "type": "Zwykły",
+      "phases": "3-fazowy",
+      "price": 2600
+    },
+    {
+      "name": "Falownik DEYE SUN 12K",
+      "warranty": "12 lat",
+      "type": "Zwykły",
+      "phases": "3-fazowy",
+      "price": 2700
+    },
+    {
+      "name": "Falownik DEYE SUN 15K",
+      "warranty": "12 lat",
+      "type": "Zwykły",
+      "phases": "3-fazowy",
+      "price": 3400
+    },
+    {
+      "name": "Falownik DEYE SUN 25K",
+      "warranty": "12 lat",
+      "type": "Zwykły",
+      "phases": "3-fazowy",
+      "price": 4400
+    },
+    {
+      "name": "Falownik DEYE SUN 50K",
+      "warranty": "12 lat",
+      "type": "Zwykły",
+      "phases": "3-fazowy",
+      "price": 8800
+    },
+    {
+      "name": "[1-fazowy] Falownik DEYE SUN 3.6K",
+      "warranty": "10 lat",
+      "type": "Zwykły",
+      "phases": "1-fazowy",
+      "price": 1700
+    }
+  ],
+  "warehouse": [
+    {
+      "name": "Bateria DEYE 5.14kW",
+      "warranty": "10 lat",
+      "price": 7000
+    },
+    {
+      "name": "Bateria DEYE 6.14kW",
+      "warranty": "10 lat",
+      "price": 8000
+    }
+  ],
+  "security": [
+    {
+      "name": "NOARK",
+      "price": 1800
+    },
+        {
+      "name": "ML SYSTEM",
+      "price": 2200
+    },
+    {
+      "name": "EPI",
+      "price": 1200
+    }
+  ],
+  "support": [
+    {
+      "type": "Blachodachówka",
+      "price": 200
+    },
+    {
+      "type": "Trapez",
+      "price": 165
+    },
+    {
+      "type": "Ekierka kotwiona",
+      "price": 235
+    },
+    {
+      "type": "Dachówki",
+      "price": 245
+    },
+    {
+      "type": "Rąbek",
+      "price": 230
+    },
+    {
+      "type": "Balast",
+      "price": 280
+    },
+    {
+      "type": "Gont bitumiczny",
+      "price": 200
+    },
+    {
+      "type": "> Grunt 2V+2",
+      "price": 2400
+    },
+    {
+      "type": "> Grunt od 10 kW",
+      "price": 2800
+    }
+  ],
+  "installation_direction": [
+    {
+      "direction": "południe",
+      "price": 0
+    },
+    {
+      "direction": "wschód",
+      "price": 0
+    },
+    {
+      "direction": "zachód",
+      "price": 0
+    },
+    {
+      "direction": "wschód-zachód",
+      "price": 300
+    },
+    {
+      "direction": "wschód-południe",
+      "price": 300
+    },
+    {
+      "direction": "południe-zachód",
+      "price": 0
+    }
+  ],
+  "installation": [
+    {
+      "location": "Rozdzielnia główna"
+    },
+    {
+      "location": "Rozdzielnia pomocnicza"
+    },
+    {
+      "location": "Gniazdo siłowe"
+    }
+  ],
+  "cable_ac": [
+    {
+      "name": "Przewód 6x5 mm2",
+      "price": 20
+    }
+  ],
+  "cable_dc": [
+    {
+      "name": "Przewód solarny 6mm2",
+      "price": 18
+    }
+  ],
+  "optimizers": [
+    {
+      "name": "Optymalizator",
+      "price": 250
+    }
+  ],
+  "rafter": [
+    {
+      "type": "DREWNIANA",
+      "price": 0
+    },
+        {
+      "type": "STALOWA",
+      "price": 1000
+    }
+  ],
+  "promotions": [
+  {
+    "name": "low",
+    "amount": 1000
+  },
+  {
+    "name": "medium",
+    "amount": 5000
+  },
+  {
+    "name": "high",
+    "amount": 1000
+  }
+  ]
+}
+
